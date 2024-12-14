@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cake</string>
+    <string name="tatliBaslik">Çikolatalı Pasta</string>
+    <string name="cikolataYazi">Çikolata</string>
+    <string name="findikYazi">Fındık</string>
+    <string name="ahududuYazi">Ahududu</string>
+    <string name="cilekYazi">Çilek</string>
+    <string name="teslimatSure">15 dk</string>
+    <string name="teslimatBaslik">Teslimat</string>
+    <string name="tatliAciklama">Tatlı severler için eşsiz bir lezzet!</string>
+    <string name="fiyatYazi">₺ 349,99</string>
+    <string name="buttonYazi">SEPETE EKLE</string>
+    <string name="icerikYazi">İçindekiler</string>
+    <string name="direktSatinAl">DİREKT SATIN AL</string>
+</resources>

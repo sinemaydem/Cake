@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cake</string>
+    <string name="tatliBaslik">Chocolate Cake</string>
+    <string name="cikolataYazi">Chocolate</string>
+    <string name="findikYazi">Hazelnut</string>
+    <string name="ahududuYazi">Raspberry</string>
+    <string name="cilekYazi">Strawberry</string>
+    <string name="teslimatSure">15 min</string>
+    <string name="teslimatBaslik">Delivery</string>
+    <string name="tatliAciklama">A perfect dessert for sweet lovers!</string>
+    <string name="fiyatYazi">$ 8.99</string>
+    <string name="buttonYazi">ADD TO CART</string>
+    <string name="icerikYazi">Ingredients</string>
+    <string name="direktSatinAl">BUY NOW</string>
+
+</resources>
